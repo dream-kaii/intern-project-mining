@@ -1,0 +1,7 @@
+interface:
+  display_name: "实习含金量挖掘"
+  short_description: "分析公司项目，挖掘能写进简历的实习亮点与面试预案"
+  default_prompt: "用 $intern-project-mining 分析我公司的项目，帮我找出能写进简历的实习亮点。"
+
+policy:
+  allow_implicit_invocation: true
